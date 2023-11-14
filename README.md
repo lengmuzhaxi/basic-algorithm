@@ -4,7 +4,8 @@
     + 栈
      1. 单调栈
      2. 
+    + 队列
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIxMDA4MzcsLTE1MTc5NTI1MjYsLT
-E5NzY2Mzg3OTFdfQ==
+eyJoaXN0b3J5IjpbMTg2MzA4MjMwMCwtMTUxNzk1MjUyNiwtMT
+k3NjYzODc5MV19
 -->
